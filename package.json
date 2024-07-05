@@ -1,6 +1,7 @@
 {
   "name": "weather-app",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Projeto de weather app feito utilizando o framework Angular. Curso.",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
